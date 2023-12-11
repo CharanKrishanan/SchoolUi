@@ -54,4 +54,4 @@ jobs:
           app-name: 'SchoolUi2'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CB9B390FAD4B4A4BA08D8B96B9F1FAA0 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9CE5BB0461F94324BC9643C5004FCD6C }}
